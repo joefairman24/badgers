@@ -1,0 +1,96 @@
+{
+  "events": [
+    {
+      "date": "2026-09-21",
+      "kind": "practice",
+      "opponent": "",
+      "start": "17:30",
+      "end": "18:30",
+      "field": "Field 1",
+      "cancelled": false
+    },
+    {
+      "date": "2026-09-26",
+      "kind": "game",
+      "opponent": "PA Dukes",
+      "start": "09:00",
+      "end": "10:00",
+      "field": "Field 1A",
+      "cancelled": false
+    },
+    {
+      "date": "2026-09-28",
+      "kind": "practice",
+      "opponent": "",
+      "start": "17:30",
+      "end": "18:30",
+      "field": "Field 1",
+      "cancelled": false
+    },
+    {
+      "date": "2026-10-03",
+      "kind": "game",
+      "opponent": "MT PSG",
+      "start": "09:00",
+      "end": "10:00",
+      "field": "Field 1A",
+      "cancelled": false
+    },
+    {
+      "date": "2026-10-05",
+      "kind": "practice",
+      "opponent": "",
+      "start": "17:30",
+      "end": "18:30",
+      "field": "Field 1",
+      "cancelled": false
+    },
+    {
+      "date": "2026-10-10",
+      "kind": "game",
+      "opponent": "MT Bayern",
+      "start": "09:00",
+      "end": "10:00",
+      "field": "Field 1A",
+      "cancelled": false
+    },
+    {
+      "date": "2026-10-12",
+      "kind": "practice",
+      "opponent": "",
+      "start": "17:30",
+      "end": "18:30",
+      "field": "Field 1",
+      "cancelled": false
+    },
+    {
+      "date": "2026-10-17",
+      "kind": "game",
+      "opponent": "MT Inter Miami",
+      "start": "09:00",
+      "end": "10:00",
+      "field": "Field 1B",
+      "cancelled": false
+    },
+    {
+      "date": "2026-10-19",
+      "kind": "practice",
+      "opponent": "",
+      "start": "17:30",
+      "end": "18:30",
+      "field": "Field 1",
+      "cancelled": false
+    }
+  ],
+  "snacks": [
+    "Fairman family",
+    "Kubat family",
+    "Sayers family",
+    "Avila family",
+    "",
+    "Shumate family",
+    "Melendez family",
+    ""
+  ],
+  "updates": []
+}
